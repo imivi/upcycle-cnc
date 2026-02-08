@@ -1,41 +1,44 @@
-"category","part","pcs","note"
+category,part,pcs,note
 ,,,
-"motion","Hgr20 rail 400-500mm",2,"for X axis"
-,"Hgr15 rail 350mm",2,"for Y axis"
-,"Hgh20 carriage",2,"for X axis"
-,"Hgh15 carriage",4,"for Y axis"
-,"Lead screw 350 mm",1,"for Y axis"
-,"Lead screw nut",1,"for Y axis, can reuse from 3018"
-,"Nema 17 stepper motors",3,"can reuse from 3018"
-,"Lead screw",,"for Y axis"
-,"Coupling from 5mm to 8mm",1,"for Y axis motor"
-,"Gt2 pulley, 40t, 10mm width",1,"for X axis"
-,"Gt2 belt, 260mm length, 10mm width",1,"for X axis"
-,"Sfu1204 ball screw",1,"for X axis"
-,"Sfu1204 nut + housing",1,"for X axis"
-,"Bk10 bearing block",1,"for X axis"
-,"Bf10 bearing block",1,"for X axis"
+motion,Hgr20 rail 400-500mm,2,for X axis
+,Hgr15 rail 350mm,2,for Y axis
+,Hgh20 carriage,2,for X axis
+,Hgh15 carriage,4,for Y axis
+,Lead screw 350 mm,1,for Y axis
+,Lead screw nut,1,"for Y axis, can reuse from 3018"
+,Nema 17 stepper motors,3,can reuse from 3018
+,Lead screw,,for Y axis
+,Coupling from 5mm to 8mm,1,for Y axis motor
+,"Gt2 pulley, 40t, 10mm width",1,for X axis
+,"Gt2 belt, 260mm length, 10mm width",1,for X axis
+,Sfu1204 ball screw,1,for X axis
+,Sfu1204 nut + housing,1,for X axis
+,Bk10 bearing block,1,for X axis
+,Bf10 bearing block,1,for X axis
 ,,,
-"frame","4040 aluminum profile, 350mm",2,
+frame,"4040 aluminum profile, 350mm",2,
 ,"4040 aluminum profile, 400mm",2,
 ,"4040 aluminum profile, 300mm",2,
-,"15180 aluminum bed",1,"can reuse from 3018"
-,"Gas spring “u” brackets",2,"for upright reinforcement"
-,"2020 aluminum profile, 200mm",2,"for upright reinforcement"
-,"2020 aluminum profile, 350mm",2,"as Y axis spacers"
-,"2020 aluminum profile, 400mm",2,"for the base"
-,"Aluminum angle brackets for 4040 profiles",2,
-,"Premade z axis assembly",1,"SFU1605, 150mm travel"
-,"Aluminum l bracket",12,
-,"M5 screws, length 8 mm",56,"for L brackets"
-,"M5 screws, length 30 mm",4,"for ball screw bearing blocks"
-,"M5 screws, length 14 mm",10,"for HGR20 rails"
-,"M4 screws, length 14 mm",10,"for HGR15 rails"
+,15180 aluminum bed,1,can reuse from 3018
+,Gas spring “u” brackets,2,for upright reinforcement
+,"2020 aluminum profile, 200mm",2,for upright reinforcement
+,"2020 aluminum profile, 350mm",2,as Y axis spacers
+,"2020 aluminum profile, 400mm",2,for the base
+,Aluminum angle brackets for 4040 profiles,2,
+,Premade z axis assembly,1,"SFU1605, 150mm travel"
+,Aluminum l bracket,12,
+,"M5 screws, length 8 mm",56,for L brackets
+,"M5 screws, length 30 mm",4,for ball screw bearing blocks
+,"M5 screws, length 14 mm",10,for HGR20 rails
+,"M4 screws, length 14 mm",10,for HGR15 rails
 ,,,
-"electronics & wiring","Drag chain 40x15mm",1,
-,"Spindle cable (2 wires)",1,
-,"Limit switches",6,"3 are enough if using soft limits"
+electronics & wiring,Drag chain 40x15mm,1,
+,Spindle cable (2 wires),1,
+,Limit switches,6,3 are enough if using soft limits
+,Arduino Uno,1,
+,CNC shield,1,
+,Relay module,1,to control the spindle
 ,,,
-"other","Spindle (500w)",1,
+other,Spindle (500w),1,
 ,"Spindle psu, 100v",1,
-,"Spindle mount",1,
+,Spindle mount,1,

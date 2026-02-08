@@ -2,7 +2,7 @@
 
 # UpCycle CNC
 
-UpCycle CNC is an open source DIY CNC design that reuses parts from the popular 3018 design.
+UpCycle CNC is an open source DIY CNC design that reuses parts from the popular 3018 CNC.
 
 It features a 30x18 cm cutting area with around 9 cm of Z travel.
 
