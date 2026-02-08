@@ -15,6 +15,7 @@ motion,Hgr20 rail 400-500mm,2,for X axis
 ,Sfu1204 nut + housing,1,for X axis
 ,Bk10 bearing block,1,for X axis
 ,Bf10 bearing block,1,for X axis
+,KP08 bearing block,1,for Y axis
 ,,,
 frame,"4040 aluminum profile, 350mm",2,
 ,"4040 aluminum profile, 400mm",2,
@@ -31,6 +32,9 @@ frame,"4040 aluminum profile, 350mm",2,
 ,"M5 screws, length 30 mm",4,for ball screw bearing blocks
 ,"M5 screws, length 14 mm",10,for HGR20 rails
 ,"M4 screws, length 14 mm",10,for HGR15 rails
+,"M3 screws, 10 mm length",12,for stepper motors
+,Nema 17 bracket,1,for Y axis
+,Nema 23 bracket,1,for X axis
 ,,,
 electronics & wiring,Drag chain 40x15mm,1,
 ,Spindle cable (2 wires),1,
@@ -38,6 +42,7 @@ electronics & wiring,Drag chain 40x15mm,1,
 ,Arduino Uno,1,
 ,CNC shield,1,
 ,Relay module,1,to control the spindle
+,Motor power supply (12-24V),1,for example Meanwell LRS-200-24
 ,,,
 other,Spindle (500w),1,
 ,"Spindle psu, 100v",1,
